@@ -1,7 +1,4 @@
 Tuesday evening.
-<<<<<<< HEAD
 Friday again.
 Thursday test.
-=======
-Friday again.
->>>>>>> 458e667... pp
+
